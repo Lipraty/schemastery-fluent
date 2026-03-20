@@ -1,0 +1,16 @@
+{
+  "name": "schemastery-fluent",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "files": [
+    "src"
+  ],
+  "peerDependencies": {
+    "@fluentui/web-components": "^3",
+    "@vueuse/core": ">=10",
+    "vue": "^3"
+  },
+  "dependencies": {
+    "schemastery": "^3.18.0"
+  }
+}
